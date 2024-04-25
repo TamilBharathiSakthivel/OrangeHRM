@@ -1,0 +1,15 @@
+16:18:02.793 [main] INFO  testCases.OrangeHrmTest - Strating OrangeHrmTest
+16:18:03.177 [main] INFO  testCases.OrangeHrmTest - Provided User Name 
+16:18:03.231 [main] INFO  testCases.OrangeHrmTest - Provided Password
+16:18:04.595 [main] INFO  testCases.OrangeHrmTest - Clicked on Login 
+16:18:04.595 [main] INFO  testCases.OrangeHrmTest - Finished OrangeHrmTest
+16:19:41.820 [main] INFO  testCases.OrangeHrmTest - Strating OrangeHrmTest
+16:19:42.077 [main] INFO  testCases.OrangeHrmTest - Provided User Name 
+16:19:42.151 [main] INFO  testCases.OrangeHrmTest - Provided Password
+16:19:43.401 [main] INFO  testCases.OrangeHrmTest - Clicked on Login 
+16:19:43.401 [main] INFO  testCases.OrangeHrmTest - Finished OrangeHrmTest
+16:30:19.319 [main] INFO  testCases.OrangeHrmTest - Strating OrangeHrmTest
+16:30:19.534 [main] INFO  testCases.OrangeHrmTest - Provided User Name 
+16:30:19.600 [main] INFO  testCases.OrangeHrmTest - Provided Password
+16:30:21.055 [main] INFO  testCases.OrangeHrmTest - Clicked on Login 
+16:30:21.056 [main] INFO  testCases.OrangeHrmTest - Finished OrangeHrmTest

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-25T16:30:10 IST" name="Suite" finished-at="2024-04-25T16:30:22 IST" duration-ms="11967">
+    <groups>
+    </groups>
+    <test started-at="2024-04-25T16:30:10 IST" name="Test" finished-at="2024-04-25T16:30:22 IST" duration-ms="11967">
+      <class name="testCases.OrangeHrmTest">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testCases.OrangeHrmTest@68c9133c]" started-at="2024-04-25T16:30:10 IST" name="setup" finished-at="2024-04-25T16:30:19 IST" duration-ms="8390" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TestLogin()[pri:0, instance:testCases.OrangeHrmTest@68c9133c]" started-at="2024-04-25T16:30:19 IST" name="TestLogin" finished-at="2024-04-25T16:30:21 IST" duration-ms="1745" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestLogin -->
+        <test-method is-config="true" signature="tearpDown()[pri:0, instance:testCases.OrangeHrmTest@68c9133c]" started-at="2024-04-25T16:30:21 IST" name="tearpDown" finished-at="2024-04-25T16:30:22 IST" duration-ms="1345" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearpDown -->
+      </class> <!-- testCases.OrangeHrmTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
